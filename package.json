@@ -1,0 +1,25 @@
+{
+  "name": "cycle-pong",
+  "version": "0.0.1",
+  "description": "Pong in Cycle.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Widdershin/cycle-pong.git"
+  },
+  "keywords": [
+    "pong",
+    "frp",
+    "cyclejs",
+    "happiness"
+  ],
+  "author": "Nick Johnstone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Widdershin/cycle-pong/issues"
+  },
+  "homepage": "https://github.com/Widdershin/cycle-pong"
+}
