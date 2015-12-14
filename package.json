@@ -13,13 +13,26 @@
   "keywords": [
     "pong",
     "frp",
-    "cyclejs",
-    "happiness"
+    "cyclejs"
   ],
   "author": "Nick Johnstone",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Widdershin/cycle-pong/issues"
   },
-  "homepage": "https://github.com/Widdershin/cycle-pong"
+  "homepage": "https://github.com/Widdershin/cycle-pong",
+  "dependencies": {
+    "@cycle/core": "^6.0.0-rc2",
+    "@cycle/dom": "^8.0.0-rc3",
+    "babel-preset-es2015": "^6.1.18",
+    "rx": "^4.0.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.2.0",
+    "babel-core": "^6.2.1",
+    "babelify": "^7.2.0",
+    "browserify": "^12.0.1",
+    "browserify-hmr": "^0.3.1",
+    "budo": "^6.1.0"
+  }
 }
