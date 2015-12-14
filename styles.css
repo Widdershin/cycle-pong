@@ -1,3 +1,38 @@
-.hello-world {
-  color: #663399;
+html, body {
+  width: 100%;
+  height: 100%;
+
+  margin: 0px;
 }
+
+.app {
+  height: 100%;
+}
+
+.game {
+  background: black;
+  color: white;
+
+  height: 100%;
+}
+
+.paddle {
+  position: absolute;
+  background: white;
+  width: 20px;
+  height: 100px;
+  margin-top: -50px;
+}
+
+.ball {
+  position: absolute;
+  background: white;
+
+  width: 40px;
+  height: 40px;
+
+  margin-top: -20px;
+  margin-left: -20px;
+}
+
+

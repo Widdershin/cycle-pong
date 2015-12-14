@@ -3,8 +3,8 @@ Pong implemented in Cycle.js, recorded as I go
 
 Todo:
 
-- [ ] Display paddles
-- [ ] Display ball
+- [x] Display paddles
+- [x] Display ball
 - [ ] Make the ball move
 - [ ] Make the paddles move
 - [ ] Make the ball bounce off the paddles
